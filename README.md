@@ -34,6 +34,5 @@
 
 -->
   
-  ![Snake animation](https://github.com/hevslc/hevslc![Uploading wp4574548-sakura-night-wallpapers2.jpg…]()
-/blob/output/github-contribution-grid-snake.svg)    
+  ![Snake animation](https://github.com/hevslc/hevslc/blob/output/github-contribution-grid-snake.svg)  
 
