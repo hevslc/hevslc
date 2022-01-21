@@ -1,6 +1,3 @@
-<img src="https://user-images.githubusercontent.com/32377032/132242161-b0280eec-7342-42db-a0ef-0250e20526ae.jpg">
-
-
 ### Hi! I'm Hevelyn Sthefany, a growing programmer
 
  <div>
